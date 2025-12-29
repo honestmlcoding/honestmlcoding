@@ -12,25 +12,25 @@ SSH vs SCP, environments, dependency hell, broken docs, cloud GPUs, “why did t
 
 ### What “honest” means here
 - No hype. No “just trust me.”
-- No exploitation / scammy framing.
+- No exploitation framing.
 - We teach reproducible workflows: data splits, evaluation, debugging, and responsible use.
 
 ---
 
 ## Start here (projects)
 
-### 🧠 ML (education-first, reproducible)
+### ML (education-first, reproducible)
 - **MLCancerDiagnostics** — tabular classification training example.  
-  ⚠️ Educational only. Not a medical device.  
-  Repo: https://github.com/honestmlcoding/MLCancerDiagnostics
+  Educational only. Not a medical device.  
+  Source: https://github.com/honestmlcoding/MLCancerDiagnostics
 
 - **lotteryml** — a clean ML harness for studying randomness / bias / leakage / evaluation.  
   Not “beating the lottery.”  
-  Repo: https://github.com/honestmlcoding/lotteryml
+  Source: https://github.com/honestmlcoding/lotteryml
 
-### 🔐 Systems / C++ (touch multiple domains, safely)
+### Systems / C++ (touch multiple domains, safely)
 - **vanitypubkey** — public-key-only EC point ops (learning project).  
-  Repo: https://github.com/honestmlcoding/vanitypubkey
+  Source: https://github.com/honestmlcoding/vanitypubkey
 
 ---
 
