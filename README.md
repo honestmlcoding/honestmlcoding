@@ -1,4 +1,4 @@
-# honestMLcoding 👋
+# honestMLcoding
 
 **Honest machine learning + honest coding, in plain English.**
 
